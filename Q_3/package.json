@@ -1,0 +1,15 @@
+{
+  "name": "q_3",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mahneera",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.13.0"
+  }
+}
