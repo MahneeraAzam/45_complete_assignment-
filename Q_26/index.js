@@ -9,12 +9,12 @@ if (alien_color === 'Green') {
     console.log("the player just earned 5 points");
 }
 else {
-    console.log(" the player just earned 5 points");
+    console.log(" the player just earned 10 points");
 }
 //Version 2
 if (alien_color === 'Yellow') {
     console.log("the player just earned 5 points");
 }
 else {
-    console.log(" the player just earned 5 points");
+    console.log(" the player just earned 10 points");
 }
