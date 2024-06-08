@@ -2,6 +2,12 @@
 
 let error : string[] = ["Mindi", "Arshi", "Aiman"];
 
-console.log(error[4]);
+let myError = error[4];
+
+let correct_error = error [0];
+
+console.log(myError);
+console.log(correct_error);
+
 
 
